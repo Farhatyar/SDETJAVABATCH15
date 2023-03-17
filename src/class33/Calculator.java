@@ -7,5 +7,6 @@ public class Calculator {
     public void divide(){
         Divider divider=new Divider();
         divider.divide();
+        System.out.println();
     }
 }
